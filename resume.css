@@ -5,15 +5,14 @@
 }
 
 body{
-    background:#fefbd8;
+    background:#eaeaea;
     display: flex;
     justify-content: center; 
     align-items: center;
-    border: 1px solid black;
     min-height: 100vh;
     max-width: 1000px;
     max-height: 1000px;
-    padding-left: 550px;
+    margin: 0 auto;
 }
 
 .box{
@@ -79,7 +78,8 @@ img{
 .edu{
     padding-left: 40px;
 }
-.edu>table{
+.edu table{
     display: flex;
     text-align: center;
+
 }
